@@ -1,0 +1,9 @@
+C:\БГУИР\2 КУРС\ТИ_2017\ЛАБЫ\TI_laba4\TI_laba4\bin\Debug\TI_laba4.exe.config
+C:\БГУИР\2 КУРС\ТИ_2017\ЛАБЫ\TI_laba4\TI_laba4\bin\Debug\TI_laba4.exe
+C:\БГУИР\2 КУРС\ТИ_2017\ЛАБЫ\TI_laba4\TI_laba4\bin\Debug\TI_laba4.pdb
+C:\БГУИР\2 КУРС\ТИ_2017\ЛАБЫ\TI_laba4\TI_laba4\obj\Debug\TI_laba4.csprojResolveAssemblyReference.cache
+C:\БГУИР\2 КУРС\ТИ_2017\ЛАБЫ\TI_laba4\TI_laba4\obj\Debug\TI_laba4.Form1.resources
+C:\БГУИР\2 КУРС\ТИ_2017\ЛАБЫ\TI_laba4\TI_laba4\obj\Debug\TI_laba4.Properties.Resources.resources
+C:\БГУИР\2 КУРС\ТИ_2017\ЛАБЫ\TI_laba4\TI_laba4\obj\Debug\TI_laba4.csproj.GenerateResource.Cache
+C:\БГУИР\2 КУРС\ТИ_2017\ЛАБЫ\TI_laba4\TI_laba4\obj\Debug\TI_laba4.exe
+C:\БГУИР\2 КУРС\ТИ_2017\ЛАБЫ\TI_laba4\TI_laba4\obj\Debug\TI_laba4.pdb
